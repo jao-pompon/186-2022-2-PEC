@@ -1,5 +1,0 @@
-print('Quantos anos uma pessoa nascida em 1998 terá em 2025?')
-print(2025 - 1998)
-print()
-print('Quantos anos uma pessoa nascida hoje terá em 2050?')
-print(2050 - 2022)
